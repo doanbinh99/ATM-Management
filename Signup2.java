@@ -94,7 +94,7 @@ public class Signup2 extends JFrame implements ActionListener{
         r4.setBackground(Color.WHITE);
         
         
-        String religion[] = {"Hindu","Muslim","Sikh","Christian","Other"};
+        String religion[] = {"Kinh","Other"};
         c1 = new JComboBox(religion);
         c1.setBackground(Color.WHITE);
         c1.setFont(new Font("Raleway", Font.BOLD, 14));
